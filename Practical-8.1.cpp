@@ -56,5 +56,3 @@ int main()
 }
 
 
-// Name : Helly Parmar
-// ID : 25CE069
